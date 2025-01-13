@@ -2,11 +2,11 @@
   "domain": "wundergroundpws",
   "name": "Wundergroundpws",
   "version": "2.0.9",
-  "documentation": "https://github.com/cytech/Home-Assistant-wundergroundpws/",
-  "issue_tracker": "https://github.com/cytech/Home-Assistant-wundergroundpws/discussions/",
+  "documentation": "https://github.com/geocar/ha-wundergroundpws/",
+  "issue_tracker": "https://github.com/geocar/ha-wundergroundpws/discussions/",
   "requirements": [],
   "dependencies": [],
-  "codeowners": ["@cytech"],
+  "codeowners": ["@geocar"],
   "config_flow": true,
   "iot_class": "cloud_polling"
 }

@@ -1,7 +1,7 @@
 """
 Support for WUndergroundPWS weather service.
 For more details about this platform, please refer to the documentation at
-https://github.com/cytech/Home-Assistant-wundergroundpws/tree/v2.X.X
+https://github.com/geocar/ha-wundergroundpws/
 """
 from typing import Final
 
